@@ -1,0 +1,14 @@
+{
+  "name": "newtry",
+  "version": "1.0.0",
+  "description": "This is the server file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"cd tries; java -Xmx1024M -Xms1024M -jar server.jar nogui",
+    "port":"ngrok tcp 25565"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
