@@ -1,33 +1,35 @@
-[06:44:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:44:32] [ServerMain/INFO]: Loaded 1290 recipes
-[06:44:32] [ServerMain/INFO]: Loaded 1399 advancements
-[06:44:32] [Server thread/INFO]: Starting minecraft server version 1.21
-[06:44:32] [Server thread/INFO]: Loading properties
-[06:44:32] [Server thread/INFO]: Default game type: SURVIVAL
-[06:44:32] [Server thread/INFO]: Generating keypair
-[06:44:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:44:32] [Server thread/INFO]: Using epoll channel type
-[06:44:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:44:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:44:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:44:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:44:32] [Server thread/INFO]: Preparing level "world"
-[06:44:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:44:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[06:44:35] [Server thread/INFO]: Time elapsed: 529 ms
-[06:44:35] [Server thread/INFO]: Done (2.935s)! For help, type "help"
-[06:45:08] [Server thread/INFO]: Skorpi0[/[0:0:0:0:0:0:0:1%0]:40526] logged in with entity id 8 at (618.3879221059755, 70.0, 634.93295090744)
-[06:45:08] [Server thread/INFO]: Skorpi0 joined the game
-[07:05:54] [Server thread/INFO]: [Skorpi0: Stopping the server]
-[07:05:54] [Server thread/INFO]: Stopping server
-[07:05:54] [Server thread/INFO]: Saving players
-[07:05:54] [Server thread/INFO]: Skorpi0 lost connection: Server closed
-[07:05:54] [Server thread/INFO]: Skorpi0 left the game
-[07:05:54] [Server thread/INFO]: Saving worlds
-[07:05:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:05:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:05:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:05:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:05:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:05:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:05:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:50:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:50:37] [ServerMain/INFO]: Loaded 1290 recipes
+[15:50:37] [ServerMain/INFO]: Loaded 1399 advancements
+[15:50:38] [Server thread/INFO]: Starting minecraft server version 1.21
+[15:50:38] [Server thread/INFO]: Loading properties
+[15:50:38] [Server thread/INFO]: Default game type: SURVIVAL
+[15:50:38] [Server thread/INFO]: Generating keypair
+[15:50:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:50:38] [Server thread/INFO]: Using epoll channel type
+[15:50:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:50:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:50:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:50:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:50:38] [Server thread/INFO]: Preparing level "world"
+[15:50:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:50:41] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:50:41] [Server thread/INFO]: Time elapsed: 475 ms
+[15:50:41] [Server thread/INFO]: Done (2.789s)! For help, type "help"
+[15:51:24] [Server thread/INFO]: Skorpi0[/[0:0:0:0:0:0:0:1%0]:36210] logged in with entity id 9 at (619.582012555839, 70.7531999805212, 631.4491047793854)
+[15:51:24] [Server thread/INFO]: Skorpi0 joined the game
+[15:51:59] [Server thread/INFO]: Saving the game (this may take a moment!)
+[15:51:59] [Server thread/INFO]: Saved the game
+[16:04:33] [Server thread/INFO]: [Skorpi0: Stopping the server]
+[16:04:33] [Server thread/INFO]: Stopping server
+[16:04:33] [Server thread/INFO]: Saving players
+[16:04:33] [Server thread/INFO]: Skorpi0 lost connection: Server closed
+[16:04:33] [Server thread/INFO]: Skorpi0 left the game
+[16:04:33] [Server thread/INFO]: Saving worlds
+[16:04:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:04:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:04:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:04:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:04:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:04:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:04:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
