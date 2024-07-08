@@ -8,14 +8,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2024-07-06 14:57:20 +0000",
-      "minecraft:old_growth_birch_forest": "2024-07-07 12:10:20 +0000",
       "minecraft:beach": "2024-07-06 14:57:22 +0000",
+      "minecraft:dark_forest": "2024-07-08 08:06:48 +0000",
       "minecraft:forest": "2024-07-06 12:32:29 +0000",
-      "minecraft:ocean": "2024-07-06 14:49:37 +0000",
       "minecraft:river": "2024-07-06 12:45:36 +0000",
+      "minecraft:lush_caves": "2024-07-07 12:10:07 +0000",
+      "minecraft:old_growth_birch_forest": "2024-07-07 12:10:20 +0000",
+      "minecraft:windswept_forest": "2024-07-08 08:03:45 +0000",
+      "minecraft:ocean": "2024-07-06 14:49:37 +0000",
       "minecraft:meadow": "2024-07-06 15:47:49 +0000",
       "minecraft:birch_forest": "2024-07-07 12:04:48 +0000",
-      "minecraft:lush_caves": "2024-07-07 12:10:07 +0000",
       "minecraft:windswept_hills": "2024-07-06 14:50:08 +0000",
       "minecraft:windswept_savanna": "2024-07-06 12:29:55 +0000",
       "minecraft:plains": "2024-07-06 12:30:28 +0000"
@@ -334,7 +336,8 @@
       "minecraft:skeleton": "2024-07-06 15:40:51 +0000",
       "minecraft:spider": "2024-07-07 11:37:32 +0000",
       "minecraft:zombie": "2024-07-06 12:41:15 +0000",
-      "minecraft:creeper": "2024-07-07 11:51:45 +0000"
+      "minecraft:creeper": "2024-07-07 11:51:45 +0000",
+      "minecraft:zombie_villager": "2024-07-08 08:09:30 +0000"
     },
     "done": false
   },
@@ -425,10 +428,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-07-06 14:52:08 +0000",
+      "mutton": "2024-07-08 08:23:59 +0000",
       "apple": "2024-07-07 11:12:15 +0000",
+      "chicken": "2024-07-08 08:23:52 +0000",
       "rotten_flesh": "2024-07-07 12:06:02 +0000",
       "cooked_mutton": "2024-07-06 12:45:12 +0000",
-      "cooked_beef": "2024-07-06 15:16:59 +0000"
+      "cooked_beef": "2024-07-06 15:16:59 +0000",
+      "carrot": "2024-07-08 08:12:23 +0000"
     },
     "done": false
   },
@@ -2229,6 +2235,54 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-07-07 15:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-07-08 08:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-07-08 08:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-07-08 08:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-07-08 08:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-07-08 08:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-07-08 08:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-07-08 08:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-07-08 08:04:02 +0000"
     },
     "done": true
   },
