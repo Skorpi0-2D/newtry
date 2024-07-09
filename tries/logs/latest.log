@@ -1,50 +1,29 @@
-[11:56:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:56:35] [ServerMain/INFO]: No existing world data, creating new world
-[11:56:35] [ServerMain/INFO]: Loaded 1290 recipes
-[11:56:35] [ServerMain/INFO]: Loaded 1399 advancements
-[11:56:36] [Server thread/INFO]: Starting minecraft server version 1.21
-[11:56:36] [Server thread/INFO]: Loading properties
-[11:56:36] [Server thread/INFO]: Default game type: SURVIVAL
-[11:56:36] [Server thread/INFO]: Generating keypair
-[11:56:36] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:56:36] [Server thread/INFO]: Using epoll channel type
-[11:56:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:56:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:56:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:56:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:56:36] [Server thread/INFO]: Preparing level "world"
-[11:56:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:56:41] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[11:56:42] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[11:56:42] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[11:56:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[11:56:43] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[11:56:44] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[11:56:44] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[11:56:45] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[11:56:45] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[11:56:46] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[11:56:46] [Server thread/INFO]: Time elapsed: 4976 ms
-[11:56:46] [Server thread/INFO]: Done (9.862s)! For help, type "help"
-[11:57:44] [Server thread/INFO]: Skorpi0[/[0:0:0:0:0:0:0:1%0]:55822] logged in with entity id 22 at (-9.5, 70.0, 4.5)
-[11:57:44] [Server thread/INFO]: Skorpi0 joined the game
-[12:02:04] [Server thread/INFO]: Skorpi0 has made the advancement [A Seedy Place]
-[12:05:37] [Server thread/INFO]: Skorpi0 has made the advancement [Stone Age]
-[12:06:12] [Server thread/INFO]: Skorpi0 has made the advancement [Getting an Upgrade]
-[12:08:17] [Server thread/INFO]: Skorpi0 has made the advancement [Sweet Dreams]
-[12:08:43] [Server thread/INFO]: Skorpi0 has made the advancement [Monster Hunter]
-[12:19:10] [Server thread/INFO]: Skorpi0 has made the advancement [Acquire Hardware]
-[12:36:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-653, y=105, z=-292} jd{x=-653, y=106, z=-292}
-[12:55:52] [Server thread/INFO]: [Skorpi0: Stopping the server]
-[12:55:52] [Server thread/INFO]: Stopping server
-[12:55:52] [Server thread/INFO]: Saving players
-[12:55:52] [Server thread/INFO]: Skorpi0 lost connection: Server closed
-[12:55:52] [Server thread/INFO]: Skorpi0 left the game
-[12:55:52] [Server thread/INFO]: Saving worlds
-[12:55:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:56:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:56:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:56:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:56:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:56:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:56:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:51:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:51:56] [ServerMain/INFO]: Loaded 1290 recipes
+[18:51:56] [ServerMain/INFO]: Loaded 1399 advancements
+[18:51:57] [Server thread/INFO]: Starting minecraft server version 1.21
+[18:51:57] [Server thread/INFO]: Loading properties
+[18:51:57] [Server thread/INFO]: Default game type: SURVIVAL
+[18:51:57] [Server thread/INFO]: Generating keypair
+[18:51:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:51:57] [Server thread/INFO]: Using epoll channel type
+[18:51:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:51:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:51:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:51:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:51:57] [Server thread/INFO]: Preparing level "world"
+[18:51:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:52:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:52:00] [Server thread/INFO]: Time elapsed: 468 ms
+[18:52:00] [Server thread/INFO]: Done (2.935s)! For help, type "help"
+[18:53:41] [Server thread/INFO]: Stopping the server
+[18:53:41] [Server thread/INFO]: Stopping server
+[18:53:41] [Server thread/INFO]: Saving players
+[18:53:41] [Server thread/INFO]: Saving worlds
+[18:53:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:53:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:53:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:53:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:53:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:53:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:53:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
